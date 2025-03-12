@@ -1,4 +1,4 @@
-package com.essoft.algorithms;
+package com.essoft.algorithms.sortingAlgorithms;
 
 public class A3InsertionSort {
 

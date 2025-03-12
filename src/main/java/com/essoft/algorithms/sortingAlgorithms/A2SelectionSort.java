@@ -1,4 +1,4 @@
-package com.essoft.algorithms;
+package com.essoft.algorithms.sortingAlgorithms;
 
 public class A2SelectionSort {
     public static void main(String[] args) {

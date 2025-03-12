@@ -1,4 +1,4 @@
-package com.essoft.algorithms;
+package com.essoft.algorithms.sortingAlgorithms;
 
 public class A1BubbleSort {
     public static void main(String[] args) {
